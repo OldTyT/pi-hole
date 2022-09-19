@@ -97,3 +97,8 @@
 127.0.0.1        adservice.google.com
 127.0.0.1        ads.google.com
 127.0.0.1        pagead2.googlesyndication.com
+127.0.0.1        d.reddit.com
+127.0.0.1        ads.reddit.com
+127.0.0.1        rereddit.com
+127.0.0.1        events.redditmedia.com
+127.0.0.1        widgets.pinterest.com
